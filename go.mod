@@ -1,5 +1,4 @@
-module github.com/cshekh
-
+module github.com/cshekharhs/ecom-pract
 go 1.24.3
 
 require (
